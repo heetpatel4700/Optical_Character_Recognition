@@ -15,5 +15,7 @@ Youtube: - https://youtu.be/-6bOAKY-Cck
 **Links to install Dependences: -**
 
 PyTorch Install: https://pytorch.org/get-started/locally/
+
 EasyOCR Documentation: https://github.com/JaidedAI/EasyOCR
+
 OpenCV Documentation: https://opencv.org/
