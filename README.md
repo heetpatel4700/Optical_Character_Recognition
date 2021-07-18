@@ -12,7 +12,7 @@ The great thing about EasyOCR is that it works with Python and is quite accurate
 
 Youtube: - https://youtu.be/-6bOAKY-Cck 
 
-**Links to install Dependences: - **
+**Links to install Dependences: -**
 
 PyTorch Install: https://pytorch.org/get-started/locally/
 EasyOCR Documentation: https://github.com/JaidedAI/EasyOCR
